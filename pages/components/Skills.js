@@ -7,7 +7,7 @@ function Skills() {
             <div className='text-indigo-500 text-[22px] md:text-[30px] font-bold'>
                 Skills
             </div>
-            <div className="h-[100px] mt-[20px] text-[18px] md:text-[24px] font-normal">
+            <div className=" mt-[20px] text-[18px] md:text-[24px] font-normal mb-[10px]">
                 <div>
                 Languages
                 </div>
@@ -41,7 +41,7 @@ function Skills() {
                     </div>
                 </div>
             </div>
-            <div className="h-[100px] text-[18px] md:text-[24px] font-normal mt-[40px]">
+            <div className="text-[18px] md:text-[24px] font-normal mb-[10px]">
                 <div>
                 Framweworks
                 </div>
@@ -58,7 +58,7 @@ function Skills() {
                     <div className='px-3 py-1 border-[1.5px] text-gray-500 border-gray-300 rounded-full mr-[10px] mb-[5px]'>
                         MongoDB
                     </div>
-                    <div className='px-3 py-1 border-[1.5px] text-gray-500 border-gray-300 rounded-full mr-[10px]mb-[5px]'>
+                    <div className='px-3 py-1 border-[1.5px] text-gray-500 border-gray-300 rounded-full mr-[10px] mb-[5px]'>
                         HTML
                     </div>
                     <div className='px-3 py-1 border-[1.5px] text-gray-500 border-gray-300 rounded-full mr-[10px] mb-[5px]'>
@@ -75,7 +75,7 @@ function Skills() {
                     </div>
                 </div>
             </div>
-            <div className="h-[100px] text-[18px] md:text-[24px] font-normal  mt-[40px]">
+            <div className=" text-[18px] md:text-[24px] font-normal">
                 <div>
                 Data Science
                 </div>
