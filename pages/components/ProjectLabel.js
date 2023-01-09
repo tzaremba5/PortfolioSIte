@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import Tool from './tool';
+import Tool from './Tool';
 
 function ProjectLabel() {
   const [open, setOpen] = React.useState(false);
