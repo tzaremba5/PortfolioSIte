@@ -27,8 +27,8 @@ function Top() {
               Teddy Zaremba. <br/> I build apps and play with data. 
             </div>
             <div className='md:text-[20px] max-w-[700px] text-gray-700 font-light pr-[30px] mt-[20px] '>
-              I'm a computer science student at the University of 
-              Illinois at Chicago graduating Fall 2023. I'm passionate about
+              I&apos;m a computer science student at the University of 
+              Illinois at Chicago graduating Fall 2023. I&apos;m passionate about
               backend development and making apps that can scale. 
         </div>
     </div>

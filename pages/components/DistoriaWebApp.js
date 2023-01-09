@@ -15,7 +15,7 @@ function DistoriaWebApp() {
                   Distortia Web App
                 </div>
                 <div className='text-[15px] md:text-[13.5px] font-light rounded-b-3xl leading-4'>
-                  Distortia is a react based image guessing game that let's players guess an image as it gets progressively distorted.
+                  Distortia is a react based image guessing game that let&apos;s players guess an image as it gets progressively distorted.
               </div>
             </div> 
             <div className='ml-[10px]'>

@@ -13,9 +13,9 @@ function DiscordBot() {
             <div className='flex-col w-3/4'>
               <div className='text-light text-[18px]'>
                   Discord Sentiment Analysis Bot
-                </div>
-                <div className='text-[15px] md:text-[13.5px] font-light rounded-b-3xl leading-4'>
-                A discord bot that analyzes the sentiment of the channel's chat that logs all the chats into a MongoDB database.
+              </div>
+              <div className='text-[15px] md:text-[13.5px] font-light rounded-b-3xl leading-4'>
+                A discord bot that analyzes the sentiment of the channel&apos;s chat that logs all the chats into a MongoDB database.
               </div>
             </div> 
             <div className='ml-[10px]'>
