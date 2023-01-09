@@ -36,7 +36,7 @@ function CTA() {
                 <Tool name={'Python'}/>
                 <Tool name={'SQL'}/>
             </div>
-            <a href='https://github.com/TeddyZaremba/CTA_Analyzer' target='_blank'>
+            <a href='https://github.com/TeddyZaremba/CTA_Analyzer' target='_blank' rel="noreferrer">
               <div className='flex w-min mt-[20px] cursor-pointer stroke-black hover:text-indigo-500 hover:stroke-indigo-500'>
                 <div className='font-medium text-[15px]'>
                   Github

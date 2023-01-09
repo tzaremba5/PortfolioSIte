@@ -36,7 +36,7 @@ function DiscordBot() {
             <div className='flex flex-wrap font-[4px] font-light mt-[5px]'>
                 <Tool name={'Golang'}/>
             </div>
-            <a href="https://github.com/TeddyZaremba/SentimentAnalysisBot" target="_blank">
+            <a href="https://github.com/TeddyZaremba/SentimentAnalysisBot" target="_blank" rel="noreferrer">
               <div className='flex w-min mt-[20px] cursor-pointer stroke-black hover:text-indigo-500 hover:stroke-indigo-500'>
                 <div className='text-[15px]'>
                   Github

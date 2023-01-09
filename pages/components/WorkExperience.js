@@ -30,7 +30,7 @@ function WorkExperience() {
                                 I achieved greater than 95% accuracy for right hand vs. left hand.
                                 Our paper was presented and published in IEEE WCCI 2022.
                             </div>
-                            <a href='https://ieeexplore.ieee.org/abstract/document/9891904?casa_token=Sz3JuC-Tfv4AAAAA:wS63pNYc34tkqdYwBWKJ8lOcxSewMQkzrZAco9oAxUVD2MwIyXQ53K2mdIUuUofdsR8aEDlc' target="_blank">
+                            <a href='https://ieeexplore.ieee.org/abstract/document/9891904?casa_token=Sz3JuC-Tfv4AAAAA:wS63pNYc34tkqdYwBWKJ8lOcxSewMQkzrZAco9oAxUVD2MwIyXQ53K2mdIUuUofdsR8aEDlc' target="_blank" rel="noreferrer">
                                 <div className='flex w-min mt-[20px] cursor-pointer stroke-black hover:text-indigo-500 hover:stroke-indigo-500'>
                                     <div className='text-[15px] md:text-[18px]'>
                                     Paper

@@ -40,7 +40,7 @@ function BlackSTEMAdvocates() {
             <div className='flex flex-wrap font-[4px] font-light mt-[5px]'>
                 <Tool name={'Javascript'}/>
             </div>
-            <a href='https://www.blackstemadvocates.org/' target="_blank">
+            <a href='https://www.blackstemadvocates.org/' target="_blank" rel="noreferrer">
               <div className='flex w-min mt-[20px] cursor-pointer stroke-black hover:text-indigo-500 hover:stroke-indigo-500'>
                 <div className='font-medium text-[15px]'>
                   Link
