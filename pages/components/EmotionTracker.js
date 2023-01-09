@@ -15,7 +15,7 @@ function EmotionTracker() {
                   Emotion Tracker Mobile App
                 </div>
                 <div className='text-[15px] md:text-[13.5px] font-light rounded-b-3xl leading-4'>
-                  A flutter app that allows you to plot track your emotions (happy, sad, neutral) on a calender and plot them on a pie chart.
+                  A flutter app that allows you to track your emotions (happy, sad, neutral) on a calender and plot them.
               </div>
             </div> 
             <div className='ml-[10px]'>

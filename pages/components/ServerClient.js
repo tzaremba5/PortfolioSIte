@@ -14,7 +14,7 @@ function ServerClient() {
                   Server / Client
                 </div>
                 <div className='text-[15px] md:text-[13.5px] font-light rounded-b-3xl leading-4'>
-                This is a java implementation of Mora where two clients connect to a server and reveal their guesses and score through the server.
+                This is a java implementation of Mora where two clients connect to a server and reveal their guesses / score through the server.
               </div>
             </div> 
             <div className='ml-[10px]'>

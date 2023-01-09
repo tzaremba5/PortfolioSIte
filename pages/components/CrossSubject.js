@@ -15,7 +15,7 @@ function CrossSubject() {
                   BCI Subject Transfer
                 </div>
                 <div className='text-[15px] md:text-[13.5px] font-light rounded-b-3xl leading-4'>
-                  A framework for training across subjects to classify left versus right hand versus foot motor imagery EEG signals. 
+                  A framework for training across subjects to classify left hand, right hand, and foot motor imagery EEG signals. 
               </div>
             </div> 
             <div className='ml-[10px]'>
