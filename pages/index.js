@@ -56,7 +56,6 @@ export default function Home() {
                       <EmotionTracker/>
                       <BlackSTEMAdvocates/>
                       <CTA/>
-
                     </div>
                   </div>
                 </div>
