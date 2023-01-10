@@ -5,8 +5,8 @@ function WorkExperience() {
   return (
     <div className='mt-[20px] mx-[5px] rounded-lg'>
         <div className='pt-[20px] pb-[50px] flex justify-center'>
-            <div className='w-3/4'>
-                <div className='text-[22px] md:text-[30px] text-indigo-500 font-bold'>
+            <div className='md:w-3/4'>
+                <div className='ml-[50px] md: ml-[0px] text-[22px] md:text-[30px] text-indigo-500 font-bold'>
                     Work Experience
                 </div>
                 <div className='flex'>
