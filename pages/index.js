@@ -50,9 +50,11 @@ export default function Home() {
                   </div>
                   <div className='flex justify-center'>
                     <div className='projectCard:grid grid-cols-2 gap-[20px] md:gap-[30px]'>
+                      <DiscordBot/>
                       <DistoriaWebApp/>
                       <ServerClient/>
                       <EmotionTracker/>
+                      <CTA/>
                       <BlackSTEMAdvocates/>
                     </div>
                   </div>
@@ -70,8 +72,6 @@ export default function Home() {
                     <div className='projectCard:grid grid-cols-2 gap-[15px] md:gap-[30px]'>
                       <CrossSubject/>
                       <Earthquake/>
-                      <CTA/>
-                      <DiscordBot/>
                     </div>
                   </div>
                 </div>
