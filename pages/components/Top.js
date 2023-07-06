@@ -28,8 +28,7 @@ function Top() {
             </div>
             <div className='md:text-[20px] max-w-[700px] text-gray-700 font-light pr-[30px] mt-[20px] '>
               I&apos;m a computer science student at the University of 
-              Illinois at Chicago graduating Fall 2023. I&apos;m passionate about
-              data science and making things that can scale. 
+              Illinois at Chicago graduating Fall 2023.
         </div>
     </div>
   )

@@ -24,7 +24,7 @@ function WorkExperience() {
                                 University of Colorado - Colorado Springs                   
                             </div>
                             <div className='text-[15px] md:text-[18px] font-light text-slate-500'>
-                                June 2021 - August 2022                          
+                                June 2021 - January 2022                          
                             </div>
                             <div className='text-[15px] md:text-[18px] text-slate-800 mt-[10px]'>
                                 I Developed preprocessing and feature extracIon pipeline for the EEG data of 21 subjects.
